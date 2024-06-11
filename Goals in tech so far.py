@@ -1,0 +1,7 @@
+print("So I want to be a software developer/engineer or a full stack developer for my career")
+print('mainly becuase I would like a job that pays well, i will not get bored of, and i can work from home')
+print("but also because i would like to have my own game company and by me learning how to code this will help me get in the right direction")
+print('when i gardaute in december i will apply to athabascas computer and infromation systems science degree and since i already have a degree it will take me about 2 years to complete')
+print('but i am really eager to start working so right now i am taking free coding classes so tthat i can jump start my career rather than wait 2 years')
+print('i will still do the athabasca one but in the meanwhile as menttioned above i will do free classes through codedex whcih taught me this printt function in python and i will also use the odin project so that hopefull when i am done TOP i can get a job and continue my eductationw ith atahbasca at the same time')
+print('and then boom multi millionaire')

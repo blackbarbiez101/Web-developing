@@ -1,0 +1,19 @@
+h1, h2, p {text-align: center;}
+body {background-image: url(https://i0.wp.com/artisthue.com/wp-content/uploads/2021/01/121780906_210059947203658_7972362452898753894_n.jpg?w=1080&ssl=1); font-family:apple chancery;padding:10px}
+.menu {background-color: rgb(148, 150, 219); width: 80%; margin-left:auto; margin-right:auto; padding: 20px; max-width: 500px;}
+.flavor, .dessert {text-align: left; width: 50%;}
+.price {text-align: right; width: 50%;}
+.item p {display: inline-block; margin-top: 5px; margin-bottom:5px; font-size: 18px;}
+.est{font-style: italic;}
+h1{font-size: 40px; margin: 0; margin-bottom: 15px;}
+h2{font-size: 30px;}
+hr{height: 2px; background-color: rgb(162, 204, 232); border-color: rgb(162, 204, 232);}
+.bottom-line {margin-top: 25px;}
+footer {font-size: 14px;}
+a {color: rgb(0, 0, 0);}
+a:visited {color: grey;}
+a:hover {color: rgb(75, 11, 237);}
+a:active {color:aliceblue}
+.address {margin-bottom: 5px;}
+img {width: 100px;}
+img {display:block; margin-left: auto; margin-right: auto; margin-top: -25px;}
